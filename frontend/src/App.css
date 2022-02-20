@@ -36,21 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.loginform {
-  display: flex;
-  flex-direction: column;
-  width: 20%;
-  margin: auto;
-}
-
-.loginform > input {
-  margin: 1%;
-  height: 30px;
-}
-
-.empdiv {
-  display: flex;
-  border: 1px solid rebeccapurple;
-  justify-content: space-between;
-}
